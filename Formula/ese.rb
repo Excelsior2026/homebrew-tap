@@ -6,6 +6,7 @@ class Ese < Formula
   url "https://github.com/Excelsior2026/ensemble-software-engineering/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "639d8d74951f82d736cdf68d26fd1a51b2a0c6bf1285a33a51f87b3ed36c95bd"
   license "MIT"
+  head "https://github.com/Excelsior2026/ensemble-software-engineering.git", branch: "main"
 
   depends_on "rust" => :build
   depends_on "libyaml"
