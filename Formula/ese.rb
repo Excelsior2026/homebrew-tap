@@ -3,8 +3,8 @@ class Ese < Formula
 
   desc "Ensemble Software Engineering (ESE) CLI"
   homepage "https://github.com/Excelsior2026/ensemble-software-engineering"
-  url "https://github.com/Excelsior2026/ensemble-software-engineering/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "7af2ee84ebbe5d67e65f3b6a93bd8ea482a5c11058f5f2c2ec66b0226a0a5240"
+  url "https://github.com/Excelsior2026/ensemble-software-engineering/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "639d8d74951f82d736cdf68d26fd1a51b2a0c6bf1285a33a51f87b3ed36c95bd"
   license "MIT"
 
   depends_on "rust" => :build
