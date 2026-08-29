@@ -1,5 +1,7 @@
 # Excelsior2026 Tap
 
+_A BagelTech project._
+
 ## How do I install these formulae?
 
 `brew install excelsior2026/tap/<formula>`
